@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../../../src/controller/FatiaoData/index.ts"],"names":[],"mappings":";;AAAA,aAAa;AACb,2CAAoC;AAEpC,MAAqB,UAAU;IAM3B,GAAG,CAAC,cAAsB;QACtB,IAAI,GAAG,GAAG,IAAI,UAAU,CAAC,GAAG,CAAC,cAAc,CAAC,CAAC;QAC7C,GAAG,CAAC,KAAK,EAAE,CAAC;IAChB,CAAC;;AAPc,cAAG,GAAG;IACjB,SAAS,EAAT,mBAAS;CACZ,CAAC;AAJN,6BAWC"}

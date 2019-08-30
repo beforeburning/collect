@@ -1,0 +1,136 @@
+{
+  "source": [
+    {
+      "key": "YoulaiAmount",
+      "name": "有来 - 视频+音频",
+      "value": "YoulaiAmount",
+      "list": [
+        {
+          "key": "YoulaiAmount",
+          "name": "通过医生全量抓取",
+          "value": "YoulaiAmount"
+        }
+      ]
+    },
+    {
+      "key": "YoulaiVideo",
+      "name": "有来 - 视频",
+      "value": "YoulaiVideo",
+      "list": [
+        {
+          "key": "youlaiVideoReading",
+          "name": "通过阅读数抓取",
+          "value": "YoulaiVideoReading"
+        },
+        {
+          "key": "youlaiVideoLatest",
+          "name": "通过列表最新量抓取",
+          "value": "YoulaiVideoLatest"
+        },
+        {
+          "key": "youlaiVideoDoctor",
+          "name": "通过医生抓取",
+          "value": "YoulaiVideoDoctor"
+        }
+      ]
+    },
+    {
+      "key": "YoulaiAudio",
+      "name": "有来 - 音频",
+      "value": "YoulaiAudio",
+      "list": [
+        {
+          "key": "YoulaiAudioPlay",
+          "name": "通过播放数抓取",
+          "value": "YoulaiAudioPlay"
+        },
+        {
+          "key": "YoulaiAudioDoctor",
+          "name": "通过医生抓取",
+          "value": "YoulaiAudioDoctor"
+        }
+      ]
+    },
+    {
+      "key": "YoulaiDoctor",
+      "name": "有来 - 医院科室医生",
+      "value": "YoulaiDoctor",
+      "list": [
+        {
+          "key": "YoulaiHospitalAll",
+          "name": "所有医院",
+          "value": "YoulaiHospitalAll"
+        },
+        {
+          "key": "YoulaiDeptAll",
+          "name": "所有科室",
+          "value": "YoulaiDeptAll"
+        },
+        {
+          "key": "YoulaiDoctor",
+          "name": "所有医生",
+          "value": "YoulaiDoctor"
+        }
+      ]
+    },
+    {
+      "key": "JiankangyixianVideo",
+      "name": "健康一线 - 视频",
+      "value": "JiankangyixianVideo",
+      "list": [
+        {
+          "key": "JiankangyixianVideoLatest",
+          "name": "列表最新视频",
+          "value": "JiankangyixianVideoLatest"
+        },
+        {
+          "key": "JiankangyixianVideoDoctor",
+          "name": "通过医生抓取",
+          "value": "JiankangyixianVideoDoctor"
+        }
+      ]
+    },
+    {
+      "key": "JiankangyixianDoctor",
+      "name": "健康一线 - 医生",
+      "value": "JiankangyixianDoctor",
+      "list": [
+        {
+          "key": "JiankangyixianDoctorAll",
+          "name": "所有医生",
+          "value": "JiankangyixianDoctorAll"
+        }
+      ]
+    },
+    {
+      "key": "JiankangyixianAudio",
+      "name": "健康一线 - 音频",
+      "value": "JiankangyixianAudio",
+      "list": [
+        {
+          "key": "JiankangyixianAudioAll",
+          "name": "列表音频",
+          "value": "JiankangyixianAudioAll"
+        }
+      ]
+    },
+    {
+      "key": "FatiaoData",
+      "name": "发条 - 大数据",
+      "value": "FatiaoData",
+      "list": [
+        {
+          "key": "FatiaoTag",
+          "name": "数据打标签",
+          "value": "FatiaoTag"
+        }
+      ]
+    }
+  ],
+  "sql": {
+    "host": "127.0.0.1",
+    "user": "root",
+    "password": "5201314",
+    "database": "doctorGrab"
+  }
+}
